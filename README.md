@@ -1,4 +1,9 @@
-# react-interview
+for this project you might need the following:
+* npm install @material-ui/core
+* npm install @material-ui/icons
+
+
+# Task
 
 1. Lister les films dans des cartes avec: le titre en gras, la catégorie et une jauge type Youtube indiquant le ratio likes/dislikes. Les cartes doivent être côtes à côtes et responsive. Càd que lorsque la fenêtre se réduit, les cartes sautent à la ligne suivante.
 
@@ -19,6 +24,3 @@ Prennez des initiatives, il y a des points bonus si
 * Il y a une attention aux détails
 
 
-for this project you might need the following:
-* npm install @material-ui/core
-* npm install @material-ui/icons
