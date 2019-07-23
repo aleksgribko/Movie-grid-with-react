@@ -1,4 +1,4 @@
-for this project you might need the following:
+## For this project you might need the following:
 * npm install @material-ui/core
 * npm install @material-ui/icons
 
